@@ -2,6 +2,12 @@
 
 - 📫 How to reach me **alexandersd3306@gmail.com**
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhoenixJustCode&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhoenixJustCode&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhoenixJustCode&theme=transparent)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexandr-demchenko-80299b298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandr-demchenko-80299b298/" height="30" width="40" /></a>
