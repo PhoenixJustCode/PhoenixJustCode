@@ -1,13 +1,13 @@
-<h3 align="center">Hi, My name is Alex</h3>
+<h1 align="center">Hi, My name is Alex</h1>
 
-<b>About me:
-I am an aspiring Backend developer</b>
+<h3>About me:</h3>
+I am an beginner Backend developer
 - 📫 How to reach me **alexandersd3306@gmail.com**
 
-
+<h3 align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhoenixJustCode&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhoenixJustCode&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhoenixJustCode&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhoenixJustCode&theme=transparent)</h3>
 
 
 <h3 align="left">Connect with me:</h3>
