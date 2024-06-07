@@ -1,5 +1,7 @@
-<h3 align="center">A passionate backend developer from Kazakhstan</h3>
+<h3 align="center">Hi, My name is Alex</h3>
 
+<b>About me:
+I am an aspiring Backend developer</b>
 - 📫 How to reach me **alexandersd3306@gmail.com**
 
 
