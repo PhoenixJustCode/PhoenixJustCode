@@ -17,7 +17,6 @@
 
 <h3 align="left">✏️Connect with me:</h3>
 <p align="center">
-
 <a href="https://t.me/phoenix_S_E" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/384px-Telegram_alternative_logo.svg.png?20220331105502" alt="alexandr-demchenko-80299b298/" height="60" width="60" /></a>
 <a href="https://linkedin.com/in/alexandr-demchenko-80299b298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandr-demchenko-80299b298/" height="60" width="60" /></a>
 <a href="https://instagram.com/demchenkoss_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demchenkoss_" height="60" width="60" /></a>
