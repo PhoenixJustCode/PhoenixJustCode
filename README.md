@@ -4,7 +4,7 @@
 I am an beginner Backend developer
 - 📫 How to reach me **alexandersd3306@gmail.com**
 
-<h3 align="center">
+<h3>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhoenixJustCode&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhoenixJustCode&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhoenixJustCode&theme=transparent)</h3>
