@@ -1,3 +1,7 @@
+<img align="right" alt="GIF" src="https://github.com/PhoenixJustCode/PhoenixJustCode/blob/main/3otv.gif" width="100%"/>
+<br>
+
+
 <h1 align="center">Hi👋, My name is Alex</h1>
 
 <h3>👨🏼‍💻About me: </h3>
