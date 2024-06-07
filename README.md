@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/alexandr-demchenko-80299b298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandr-demchenko-80299b298/" height="60" width="60" /></a>
 <a href="https://instagram.com/demchenkoss_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demchenkoss_" height="60" width="60" /></a>
-<a href="https://www.youtube.com/c/ucekwxtolkkzcnn191ksgdcg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucekwxtolkkzcnn191ksgdcg" height="60" width="60" /></a>
+<a href="[https://www.youtube.com/c/ucekwxtolkkzcnn191ksgdcg](https://youtube.com/@phoenixjustcode?si=T1BgN8PLvLPEkse3)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucekwxtolkkzcnn191ksgdcg" height="60" width="60" /></a>
 <a href="https://www.leetcode.com/PhoenixJustCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexandersd3606" height="60" width="60" /></a>
 </p>
 
