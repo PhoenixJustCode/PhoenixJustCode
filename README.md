@@ -9,7 +9,6 @@
 - I'm studying Software Developer at the university
 - I am an beginner Backend developer
 - How to reach me **alexandersd3306@gmail.com**
-- I record youtube videos and writing posts on my telegram channel
 
 
 <h3>🔥 My Stats: </h3>
