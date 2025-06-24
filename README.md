@@ -6,7 +6,7 @@
 
 <h3>👨🏼‍💻About me: </h3>
 
-- I'm studying Software Developer at the university
+- I’m a university student majoring in software development
 - I am a Backend developer
 - How to reach me **alexandersd3306@gmail.com**
 
