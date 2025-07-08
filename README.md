@@ -10,6 +10,37 @@
 - I am a Backend developer
 - How to reach me **alexandersd3306@gmail.com**
 
+---
+
+## 🚀 Tech Stack:
+
+### 📝 Languages:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,php,js,html,css" alt="Languages" />
+</p>
+
+### 🛠 Frameworks & Libraries:
+<p>
+  <img src="https://skillicons.dev/icons?i=django,tensorflow" alt="Frameworks" />
+</p>
+
+#### GO Libraries:
+- Logrus
+- Envconfig
+- Gopher JS
+- Telegram Bot API
+
+### 🗄️ Databases:
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
+</p>
+
+### 🐳 Tools & Platforms:
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" alt="Tools" />
+</p>
+
+---
 
 <h3>🔥 My Stats: </h3>
 
@@ -17,6 +48,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhoenixJustCode&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhoenixJustCode&theme=transparent)
 
+---
 
 <h3 align="left">✏️Connect with me:</h3>
 <p align="center">
@@ -28,6 +60,30 @@
 <a href="https://www.leetcode.com/PhoenixJustCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexandersd3606" height="60" width="60" /></a>
 </p>
 
-<h3 align="left">💻Technology Stack:</h3>
-<p align="center">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a> </p>
+
+---
+
+## 💌 Pinned Repositories:
+
+| Repository | Description | Tech |
+|---|---|---|
+| [Pomodoro-Timer-Extension](https://github.com/PhoenixJustCode/Pomodoro-Timer-Extension) | ⏲️ Lightweight Pomodoro Timer using Go (GopherJS) | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) |
+| [todoList-webVersion](https://github.com/PhoenixJustCode/todoList-webVersion) | 📘 Simple Todo List using Go, PostgreSQL, HTML/CSS | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) |
+| [TestTaskForJunior](https://github.com/PhoenixJustCode/TestTaskForJunior) | 📚 CRUD API for Books | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) |
+| [Qazaq-Study](https://github.com/PhoenixJustCode/Qazaq-Study) | 🌐 Kazakh language learning website | ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) |
+| [TelegramBotBudget](https://github.com/PhoenixJustCode/TelegramBotBudget) | 💰 Telegram Bot for Budget Tracking | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) |
+| [TelegramBot-VideoInstaller](https://github.com/PhoenixJustCode/TelegramBot-VideoInstaller) | 🎮 Telegram Bot for Video to MP3/Voice conversion | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) |
+
+---
+
+## 🔍 Skills & Interests:
+
+- 🔄 **Languages:** Python, Go, JavaScript, PHP, SQL
+- 🌐 **Frameworks:** Django, Fiber, GopherJS
+- 🧐 **Interests:** Backend Development, Bots, AI, Web Development
+
+---
+
+## 💬 Feel free to reach out!
+
+
